@@ -1,6 +1,7 @@
-![](https://img.shields.io/badge/Foundry-v10-informational)
+![](https://img.shields.io/badge/Foundry-v12-informational)
 <!--- Downloads @ Latest Badge -->
 <!--- replace <user>/<repo> with your username/repository -->
+<!--- ![All Downloads](https://img.shields.io/github/downloads/<user>/<repo>/total?color=5e0000&label=All%20Downloads) -->
 <!--- ![Latest Release Download Count](https://img.shields.io/github/downloads/<user>/<repo>/latest/module.zip) -->
 
 <!--- Forge Bazaar Install % Badge -->
@@ -63,9 +64,15 @@ When listing a new version, Version should be the version number you set above, 
 
 Clicking "Save" in the bottom right will save the new version, which means that anyone installing your module from within Foundry will get that version, and a post will be generated in the #release-announcements channel on the official Foundry VTT Discord.
 
-
 # FoundryVTT Module
 
 Does something, probably
 
+## Table of Contents
+- [Changelog](#changelog)
+- [Contributors](#contributors)
+
 ## Changelog
+You can access the changelog [here](/CHANGELOG.md).
+## Contributors
+You can see everyone else who contributed to the module [here](CONTRIBUTORS.md)
