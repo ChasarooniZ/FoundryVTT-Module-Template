@@ -6,13 +6,12 @@
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
-    "minimum": 10,
-    "verified": 10,
-    "maximum": 11
+    "minimum": 12,
+    "verified": 12
   },
   "authors": [
     {
-      "name": "The League of Extraordinary FVTT Developers",
+      "name": "chasarooniZ",
       "url": "https://github.com/League-of-Foundry-Developers",
       "discord": "discordID#0001"
     }
